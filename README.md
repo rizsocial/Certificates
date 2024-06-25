@@ -1,7 +1,7 @@
 # Certificates
 A summary of career certifications achieved so far
 
-1. Quickbooks Bookkeeping Certificate:
+1. Quickbooks Bookkeeping Certificate: https://github.com/rizsocial/Certificates/blob/main/1.%20QuickBooks%20Bookkeeping.pdf
 Gained proficiency in using QuickBooks for payroll processing, tracking expenses, and managing accounts receivable and payable.
 
 2. Microsoft 365 Fundamentals
