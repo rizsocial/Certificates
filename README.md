@@ -1,7 +1,7 @@
 # Certificates
 A summary of career certifications achieved so far
 
-### Summary of Career Certifications Achieved
+### Summary of Career Certifications
 
 - **QuickBooks Bookkeeping Certificate:**  
   Gained proficiency in using QuickBooks for payroll processing, tracking expenses, and managing accounts receivable and payable.  
