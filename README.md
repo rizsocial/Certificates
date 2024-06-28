@@ -24,3 +24,11 @@ A summary of career certifications achieved so far
 
   [<a href="https://github.com/rizsocial/Certificates/blob/main/google%20data%20analytics.png" target="_blank"><img src="https://github.com/rizsocial/Certificates/raw/main/google%20data%20analytics.png" width="200"></a>](https://github.com/rizsocial/Certificates/blob/main/google%20data%20analytics.png)
 
+
+- **Data Analysis with Python**
+  I practiced and mastered  data cleaning, visualization, and summarization with Pandas, constructing data pipelines, developing Regression models, and evaluating them using Scikit-learn.
+
+  !{Voew Certoficate](https://github.com/rizsocial/Certificates/blob/main/4.%20Data%20Analysis%20with%20Python.pdf)
+
+  <a href="https://github.com/rizsocial/Certificates/blob/main/data%20analysis%20with%20Python.png" target="_blank"><img src="https://github.com/rizsocial/Certificates/raw/main/data%20analysis%20with%20Python.png" width="200"></a>
+
