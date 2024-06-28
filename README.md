@@ -11,7 +11,7 @@ A summary of career certifications achieved so far
 
 
 - **Microsoft 365 Fundamentals:**  
-  Gained understanding of Word, Excel, and PowerPoint.  
+  Gained understanding of Word, Excel, and PowerPoint.
   [View Certificate](https://github.com/rizsocial/Certificates/blob/main/2.%20Microsoft%20365%20Fundamentals.pdf)
 
   [<a href="https://github.com/rizsocial/Certificates/blob/main/Microsoft%20365%20fundamentals.png" target="_blank"><img src="https://github.com/rizsocial/Certificates/raw/main/Microsoft%20365%20fundamentals.png" width="200"></a>](https://github.com/rizsocial/Certificates/blob/main/Microsoft%20365%20fundamentals.png)
@@ -28,7 +28,7 @@ A summary of career certifications achieved so far
 - **Data Analysis with Python**
   I practiced and mastered  data cleaning, visualization, and summarization with Pandas, constructing data pipelines, developing Regression models, and evaluating them using Scikit-learn.
 
-  {View Certificate](https://github.com/rizsocial/Certificates/blob/main/4.%20Data%20Analysis%20with%20Python.pdf)
+[View certificate](https://github.com/rizsocial/Certificates/blob/main/4.%20Data%20Analysis%20with%20Python.pdf)
 
   <a href="https://github.com/rizsocial/Certificates/blob/main/data%20analysis%20with%20Python.png" target="_blank"><img src="https://github.com/rizsocial/Certificates/raw/main/data%20analysis%20with%20Python.png" width="200"></a>
 
